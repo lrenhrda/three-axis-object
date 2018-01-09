@@ -1,0 +1,8 @@
+{
+  "name": "three-axis-object",
+  "version": "1.0.0",
+  "description": "A better axis indicator for Three.js.",
+  "main": "ThreeAxisIndicator.js",
+  "author": "Lauren Herda <lauren@laurenherda.com>",
+  "license": "MIT"
+}
