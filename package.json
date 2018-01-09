@@ -4,5 +4,9 @@
   "description": "A better axis indicator for Three.js.",
   "main": "ThreeAxisIndicator.js",
   "author": "Lauren Herda <lauren@laurenherda.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "three": "^0.89.0"
+  }
 }
